@@ -1,0 +1,15 @@
+C:\Users\kazuo\Documents\Pow\bin\Debug\net8.0\pow.exe
+C:\Users\kazuo\Documents\Pow\bin\Debug\net8.0\pow.deps.json
+C:\Users\kazuo\Documents\Pow\bin\Debug\net8.0\pow.runtimeconfig.json
+C:\Users\kazuo\Documents\Pow\bin\Debug\net8.0\pow.dll
+C:\Users\kazuo\Documents\Pow\bin\Debug\net8.0\pow.pdb
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.AssemblyInfoInputs.cache
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.AssemblyInfo.cs
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.csproj.CoreCompileInputs.cache
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.sourcelink.json
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.dll
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\refint\pow.dll
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.pdb
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\pow.genruntimeconfig.cache
+C:\Users\kazuo\Documents\Pow\obj\Debug\net8.0\ref\pow.dll
